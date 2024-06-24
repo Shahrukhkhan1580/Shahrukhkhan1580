@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shahrukh Khan</h1>
 <h3 align="center">Data Analyst / Business Analyst</h3>
 
-<img align="right" alt="Analyst" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fabhijeetsinghx07.medium.com%2Fdata-analytics-in-daily-life-511b7b2ac863&psig=AOvVaw3idnOk13byRojDRDEKiumh&ust=1719314015641000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMiooryO9IYDFQAAAAAdAAAAABAP ">
+<img align="right" alt="Analyst" width="400" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahrukhkhan1580&label=Profile%20views&color=0e75b6&style=flat" alt="shahrukhkhan1580" /> </p>
 
