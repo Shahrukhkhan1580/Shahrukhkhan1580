@@ -1,4 +1,4 @@
-![logo](https://github.com/Shahrukhkhan1580/Shahrukhkhan1580/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png)
+![logo](https://github.com/Shahrukhkhan1580/Shahrukhkhan1580/blob/main/srk%20banner%20data%20analyst.png))
 <h1 align="center">Hi 👋, I'm Shahrukh Khan</h1>
 <h3 align="center">Data Analyst / Business Analyst</h3>
 
